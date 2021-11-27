@@ -1,0 +1,24 @@
+button 
+{
+    border-radius: 20px;
+    margin-top: 260px;
+    padding: 50px;
+}
+
+#Computer
+{
+    margin-right: 50px;
+    background-color:cornflowerblue;
+}
+
+#Mobile
+{
+    background-color: crimson;
+}
+
+#Body
+{
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+}
